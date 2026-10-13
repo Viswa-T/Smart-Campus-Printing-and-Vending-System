@@ -1,0 +1,25 @@
+# Frontend dependencies
+frontend/node_modules/
+
+# Frontend build output
+frontend/dist/
+frontend/dist-ssr/
+
+# Backend build output
+backend/target/
+target/
+*.class
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+logs/
+
+# Editor and OS files
+.idea/
+.DS_Store
+Thumbs.db

@@ -66,3 +66,8 @@ target/
 # Operating system
 Thumbs.db
 Desktop.ini
+
+# Java / Maven build output
+backend/target/
+target/
+*.class
